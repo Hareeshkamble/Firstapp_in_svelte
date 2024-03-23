@@ -1,6 +1,6 @@
 <script>
-  let name = "Duniya";
-  import img from "/Users/hareeshkamble/Desktop/WebDeV/SVELTE/svelte Hello/my-app/src/lib/images/123.jpg"
+  // import img from "/123.jpg"
+
 </script>
 
 <section>
@@ -21,7 +21,7 @@
           itaque doloribus porro at, esse facere modi magni iusto atque et
           voluptatum nesciunt illum consequatur dicta repellat perspiciatis vel,
         </p>
-        <img class="h-[300px] w-[300px]" src={img} alt="">
+        <img class="h-[300px] w-[300px]" src="/123.jpg" alt="">
     </div>
   </div>
 </section>
